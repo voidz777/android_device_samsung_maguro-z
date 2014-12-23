@@ -1,0 +1,8 @@
+[
+ {
+   "remote":      "github",
+   "repository":  "Euphoria-OS/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7",
+   "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.7",
+   "revision":    "lollipop"
+ }
+]

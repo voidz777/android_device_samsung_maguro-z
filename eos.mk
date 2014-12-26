@@ -9,6 +9,7 @@ TARGET_SCREEN_WIDTH := 720
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/eos/config/common.mk)
 $(call inherit-product, vendor/eos/config/common_full_phone.mk)
+$(call inherit-product, frameworks/base/data/videos/VideoPackage2.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
